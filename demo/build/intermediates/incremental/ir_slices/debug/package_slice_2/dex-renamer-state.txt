@@ -1,0 +1,4 @@
+#Fri Oct 11 10:28:53 CST 2019
+base.0=E\:\\job\\jpush\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
